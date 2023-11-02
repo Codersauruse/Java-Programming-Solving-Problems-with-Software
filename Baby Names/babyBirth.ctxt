@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=babyBirth
+comment0.text=\r\n\ Write\ a\ description\ of\ babyBirth\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=fr
+comment1.target=void\ totalBirth(edu.duke.FileResource)
+comment10.params=year\ name\ gender
+comment10.target=int\ getTotalBirthsRankedHigher(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ tester()
+comment3.params=year\ name\ gender
+comment3.target=int\ getRank(int,\ java.lang.String,\ java.lang.String)
+comment4.params=filename\ name\ gender
+comment4.target=int\ GetRank(java.io.File,\ java.lang.String,\ java.lang.String)
+comment5.params=year\ rank\ gender
+comment5.target=java.lang.String\ getName(int,\ int,\ java.lang.String)
+comment6.params=name\ year\ gender\ newyear
+comment6.target=void\ whatIsNameInYear(java.lang.String,\ int,\ java.lang.String,\ int)
+comment7.params=name\ gender
+comment7.target=int\ yearOfHighestRank(java.lang.String,\ java.lang.String)
+comment8.params=name\ gender
+comment8.target=double\ getAverageRank(java.lang.String,\ java.lang.String)
+comment9.params=filename\ name\ gender
+comment9.target=int\ getRank(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=11
